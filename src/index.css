@@ -1,0 +1,35 @@
+body {
+  margin: 0%;
+  padding: 0%;
+}
+
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 10vh;
+}
+
+.footer {
+  padding: 2%;
+  background-color: #09afaf;
+  height: 20vh;
+  display: flex;
+}
+
+.main{
+  display: flex;
+  justify-content: space-around;
+  height: 70vh;
+}
+
+.card{
+  margin: 2% 0%;
+  width: 20%;
+  align-items: center;
+}
+
+img {
+  display: flex;
+  max-width: 100%;
+}
